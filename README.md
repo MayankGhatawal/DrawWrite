@@ -1,4 +1,4 @@
-# 🥷🏽 NinjaSketch
+# 🎨 DrawWrite
 
 An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy, hand-drawn style. I built the side project for learning purposes. The app is not responsive. I mainly focused on the functionalities since I already have plenty of projects that are responsive.
 
@@ -15,7 +15,7 @@ An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy,
 
 ## 🦄 Features
 
-Here's what you can do with NinjaSketch:
+Here's what you can do with DrawWrite:
 
 - **Choose a Tool**: You have pencils, lines, rectangles, and text tools. Pick one and start creating.
 
